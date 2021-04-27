@@ -16,7 +16,7 @@
 
 # Install / Import
 
-`cautious_winner` is both a [Deno](https://deno.land/x/cautious_winner) and an [NPM](https://www.npmjs.com/cautious_winner) module.
+`cautious_winner` is both a [Deno](https://deno.land/x/cautious_winner) and an [NPM](https://www.npmjs.com/cautious_winner) module. 
 
 ## Node:
 
